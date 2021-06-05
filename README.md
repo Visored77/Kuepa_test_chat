@@ -1,15 +1,19 @@
 # Ejecutar el Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto se realizo en React.js
 
-## Available Scripts
+## Comandos de inicio
 
-In the project directory, you can run:
+En el directorio del proyecto ejecutar
+
+### `npm install`
+
+posteriormente ejecutar
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Arrancara el proyecto y se podra visualizar en 
+Open [http://localhost:3001](http://localhost:3001) .
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
