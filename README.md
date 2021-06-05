@@ -16,4 +16,4 @@ posteriormente ejecutar
 Arrancara el proyecto y se podra visualizar en 
 [http://localhost:3001](http://localhost:3001) .
 
-se visualizara la pantalla de inicio de sesion y despues del inicio de sesion se visualizara un video de youtube y un chat 
+se visualizara la pantalla de inicio de sesion solicitando un email y un paswword que deben coincidir con los datos almacenados en la base de datos anteriormente creada, posteriormente se visualizara un video de youtube y un chat 
