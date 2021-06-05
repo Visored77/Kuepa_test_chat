@@ -1,0 +1,21 @@
+.chat {
+  position: relative;
+  top: 5px;
+  left: 2%;
+  width: 98%;
+  height: 55vh;
+  background-color: rgb(77, 76, 77);
+  overflow-y: scroll;
+  overflow-wrap: break-word;
+  overflow-x: hidden;
+
+  padding: 1em;
+  font-size: 12px;
+}
+
+.chat-w {
+  position: relative;
+  top: 5px;
+  left: 5px;
+  font-size: 12px;
+}

@@ -1,0 +1,40 @@
+.App-header {
+  background-color: #2b2a2a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-headermenu {
+  background-color: #2b2a2a;
+  height: 100vh;
+  flex-direction: column;
+  font-size: calc(5px + 2vmin);
+  color: white;
+}
+.App-logo {
+  pointer-events: none;
+}
+.App-logo2 {
+  position: relative;
+  top: 30px;
+  left: 10%;
+  padding-bottom: 10%;
+}
+.containerPrincipal {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  border: 1px solid rgb(255, 102, 0);
+  padding: 40px;
+  background-color: white;
+}
+
+.containerSecundario {
+  text-align: center;
+}
