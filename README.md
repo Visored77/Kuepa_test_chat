@@ -1,6 +1,6 @@
 # Ejecutar el Frontend
 
-Este proyecto se realizo en React.js
+Este proyecto se realizo en React.js.
 Para ejecutar este proyecto se requiere de primero arrancar el backend y tener usuarios creados en la base de datos
 
 ## Comandos de inicio
